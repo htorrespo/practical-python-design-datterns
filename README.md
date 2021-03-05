@@ -1,4 +1,6 @@
-
+<!--
+https://link-springer-com.ezproxy.unal.edu.co/book/10.1007/978-1-4842-2680-3#toc
+-->
 # Practical Python Design Patterns
 
 
